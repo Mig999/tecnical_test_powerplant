@@ -1,0 +1,4 @@
+json==2.0.9 
+fastapi==0.112.
+pydantic==2.8.2
+unicorn==0.30.5
