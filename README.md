@@ -2,7 +2,7 @@
 
 ## Description
 
-This API is designed to receive a `POST` request at the `/productionplan` endpoint with a json following the same structure as the example_payloads/payload1.json. It is built using FastAPI and configured to run on the local IP address (`127.0.0.1`) and port `8888`.
+This API is designed to receive a `POST` request at the `/productionplan` endpoint with a json following the same structure as the example_payloads/payload1.json. It is built using FastAPI and configured to run on the local IP address `127.0.0.1` and port `8888`.
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ This API is designed to receive a `POST` request at the `/productionplan` endpoi
 
 ## Clone the repository:
 
-git clone <REPOSITORY_URL>
+git clone https://github.com/Mig999/tecnical_test_powerplant
 cd <DIRECTORY_NAME>
 
 ## Create a virtual environment (optional but recommended):
